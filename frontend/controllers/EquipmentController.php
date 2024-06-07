@@ -15,25 +15,25 @@ class EquipmentController extends Controller
     }
     public function actionAbout()
     {
-       // $equipments = Equipment::find()->all();
+       $equipments = Equipment::find()->all();
         return $this->render('about', compact('equipments'));
     }
     public function actionMagazin()
     {
        // $equipments = Equipment::find()->all();
        $query = Equipment::find();
-       $pages = new Pagination(['totalCount' => $query->count(), 'pageSize' => 9]);
+       $pages = new Pagination(['totalCount' => $query->count(), 'pageSize' => 2]);
        $equipments = $query->offset($pages->offset)->limit($pages->limit)->all();
         return $this->render('magazin', compact('equipments', 'pages'));
     }
     public function actionCorzina()
     {
-       // $equipments = Equipment::find()->all();
+        $equipments = Equipment::find()->all();
         return $this->render('corzina', compact('equipments'));
     }
     public function actionContact()
     {
-       // $equipments = Equipment::find()->all();
+        $equipments = Equipment::find()->all();
         return $this->render('contact', compact('equipments'));
     }
 }

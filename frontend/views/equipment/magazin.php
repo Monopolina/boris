@@ -60,7 +60,7 @@ $this->title = Yii::$app->name;
             <?php endforeach; ?>
             <div class="col-lg-12">
                 <div class="pagination">
-                    <?= \yii\widgets\LinkPager::widget(['pagination' => $pages]) ?>
+                    <?= LinkPager::widget(['pagination' => $pages]) ?>
                     <!-- <ul>
                         <li>
                             <a href="#">1</a>
