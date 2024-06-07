@@ -137,7 +137,6 @@ $this->title = Yii::$app->name;
                                 <div class="hover-content">
                                     <ul>
                                         <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
-                                        <li><a href="single-product.html"><i class="fa fa-star"></i></a></li>
                                         <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
                                     </ul>
                                 </div>
@@ -145,14 +144,7 @@ $this->title = Yii::$app->name;
                             </div>
                             <div class="down-content">
                                 <h4>Classic Spring</h4>
-                                <span>$120.00</span>
-                                <ul class="stars">
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                </ul>
+                                <span>$120.00</span>                                
                             </div>
                         </div>
                         <div class="item">
@@ -160,7 +152,6 @@ $this->title = Yii::$app->name;
                                 <div class="hover-content">
                                     <ul>
                                         <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
-                                        <li><a href="single-product.html"><i class="fa fa-star"></i></a></li>
                                         <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
                                     </ul>
                                 </div>
@@ -168,14 +159,7 @@ $this->title = Yii::$app->name;
                             </div>
                             <div class="down-content">
                                 <h4>Air Force 1 X</h4>
-                                <span>$90.00</span>
-                                <ul class="stars">
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                </ul>
+                                <span>$90.00</span>                                
                             </div>
                         </div>
                         <div class="item">
@@ -183,7 +167,6 @@ $this->title = Yii::$app->name;
                                 <div class="hover-content">
                                     <ul>
                                         <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
-                                        <li><a href="single-product.html"><i class="fa fa-star"></i></a></li>
                                         <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
                                     </ul>
                                 </div>
@@ -191,14 +174,7 @@ $this->title = Yii::$app->name;
                             </div>
                             <div class="down-content">
                                 <h4>Love Nana ‘20</h4>
-                                <span>$150.00</span>
-                                <ul class="stars">
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                </ul>
+                                <span>$150.00</span>                                
                             </div>
                         </div>
                         <div class="item">
@@ -206,7 +182,6 @@ $this->title = Yii::$app->name;
                                 <div class="hover-content">
                                     <ul>
                                         <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
-                                        <li><a href="single-product.html"><i class="fa fa-star"></i></a></li>
                                         <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
                                     </ul>
                                 </div>
@@ -215,13 +190,6 @@ $this->title = Yii::$app->name;
                             <div class="down-content">
                                 <h4>Classic Spring</h4>
                                 <span>$120.00</span>
-                                <ul class="stars">
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                </ul>
                             </div>
                         </div>
                     </div>
@@ -254,7 +222,6 @@ $this->title = Yii::$app->name;
                                 <div class="hover-content">
                                     <ul>
                                         <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
-                                        <li><a href="single-product.html"><i class="fa fa-star"></i></a></li>
                                         <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
                                     </ul>
                                 </div>
@@ -263,13 +230,6 @@ $this->title = Yii::$app->name;
                             <div class="down-content">
                                 <h4>New Green Jacket</h4>
                                 <span>$75.00</span>
-                                <ul class="stars">
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                </ul>
                             </div>
                         </div>
                         <div class="item">
@@ -277,7 +237,6 @@ $this->title = Yii::$app->name;
                                 <div class="hover-content">
                                     <ul>
                                         <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
-                                        <li><a href="single-product.html"><i class="fa fa-star"></i></a></li>
                                         <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
                                     </ul>
                                 </div>
@@ -286,13 +245,6 @@ $this->title = Yii::$app->name;
                             <div class="down-content">
                                 <h4>Classic Dress</h4>
                                 <span>$45.00</span>
-                                <ul class="stars">
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                </ul>
                             </div>
                         </div>
                         <div class="item">
@@ -300,7 +252,6 @@ $this->title = Yii::$app->name;
                                 <div class="hover-content">
                                     <ul>
                                         <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
-                                        <li><a href="single-product.html"><i class="fa fa-star"></i></a></li>
                                         <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
                                     </ul>
                                 </div>
@@ -309,13 +260,6 @@ $this->title = Yii::$app->name;
                             <div class="down-content">
                                 <h4>Spring Collection</h4>
                                 <span>$130.00</span>
-                                <ul class="stars">
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                </ul>
                             </div>
                         </div>
                         <div class="item">
@@ -323,7 +267,6 @@ $this->title = Yii::$app->name;
                                 <div class="hover-content">
                                     <ul>
                                         <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
-                                        <li><a href="single-product.html"><i class="fa fa-star"></i></a></li>
                                         <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
                                     </ul>
                                 </div>
@@ -332,13 +275,6 @@ $this->title = Yii::$app->name;
                             <div class="down-content">
                                 <h4>Classic Spring</h4>
                                 <span>$120.00</span>
-                                <ul class="stars">
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                </ul>
                             </div>
                         </div>
                     </div>
@@ -372,7 +308,6 @@ $this->title = Yii::$app->name;
                                 <div class="hover-content">
                                     <ul>
                                         <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
-                                        <li><a href="single-product.html"><i class="fa fa-star"></i></a></li>
                                         <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
                                     </ul>
                                 </div>
@@ -381,13 +316,6 @@ $this->title = Yii::$app->name;
                             <div class="down-content">
                                 <h4>School Collection</h4>
                                 <span>$80.00</span>
-                                <ul class="stars">
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                </ul>
                             </div>
                         </div>
                         <div class="item">
@@ -395,7 +323,6 @@ $this->title = Yii::$app->name;
                                 <div class="hover-content">
                                     <ul>
                                         <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
-                                        <li><a href="single-product.html"><i class="fa fa-star"></i></a></li>
                                         <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
                                     </ul>
                                 </div>
@@ -404,13 +331,6 @@ $this->title = Yii::$app->name;
                             <div class="down-content">
                                 <h4>Summer Cap</h4>
                                 <span>$12.00</span>
-                                <ul class="stars">
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                </ul>
                             </div>
                         </div>
                         <div class="item">
@@ -418,7 +338,6 @@ $this->title = Yii::$app->name;
                                 <div class="hover-content">
                                     <ul>
                                         <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
-                                        <li><a href="single-product.html"><i class="fa fa-star"></i></a></li>
                                         <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
                                     </ul>
                                 </div>
@@ -427,21 +346,13 @@ $this->title = Yii::$app->name;
                             <div class="down-content">
                                 <h4>Classic Kid</h4>
                                 <span>$30.00</span>
-                                <ul class="stars">
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                </ul>
                             </div>
                         </div>
                         <div class="item">
                             <div class="thumb">
                                 <div class="hover-content">
                                     <ul>
-                                        <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>
-                                        <li><a href="single-product.html"><i class="fa fa-star"></i></a></li>
+                                        <li><a href="single-product.html"><i class="fa fa-eye"></i></a></li>                                        
                                         <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
                                     </ul>
                                 </div>
@@ -450,13 +361,6 @@ $this->title = Yii::$app->name;
                             <div class="down-content">
                                 <h4>Classic Spring</h4>
                                 <span>$120.00</span>
-                                <ul class="stars">
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                    <li><i class="fa fa-star"></i></li>
-                                </ul>
                             </div>
                         </div>
                     </div>
