@@ -5,7 +5,7 @@
 $this->title = Yii::$app->name;
 ?>
 <!-- ***** Main Banner Area Start ***** -->
-<div class="page-heading about-page-heading" id="top">
+<div class="page-heading about-page-heading" >
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
