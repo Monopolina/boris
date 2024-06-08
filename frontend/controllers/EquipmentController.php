@@ -22,7 +22,7 @@ class EquipmentController extends Controller
     {
        // $equipments = Equipment::find()->all();
        $query = Equipment::find();
-       $pages = new Pagination(['totalCount' => $query->count(), 'pageSize' => 2]);
+       $pages = new Pagination(['totalCount' => $query->count(), 'pageSize' => 9]);
        $equipments = $query->offset($pages->offset)->limit($pages->limit)->all();
         return $this->render('magazin', compact('equipments', 'pages'));
     }

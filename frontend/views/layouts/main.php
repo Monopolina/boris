@@ -39,7 +39,7 @@ AppAsset::register($this);
                         <ul class="nav">
                             <li class="scroll-to-section"><a href="<?= Yii::$app->urlManager->createUrl(["equipment/index"]) ?>#top" class="active">Главная</a></li>
                             <li class="scroll-to-section"><a href="<?= Yii::$app->urlManager->createUrl(["equipment/index"]) ?>#men">Кондиционеры</a></li>
-                            <li class="scroll-to-section"><a href="<?= Yii::$app->urlManager->createUrl(["equipment/index"]) ?>#women">Увлажнители</a></li>
+                            <li class="scroll-to-section"><a href="<?= Yii::$app->urlManager->createUrl(["equipment/index"]) ?>#women">Вентиляторы</a></li>
                             <li class="scroll-to-section"><a href="<?= Yii::$app->urlManager->createUrl(["equipment/index"]) ?>#kids">Очистители воздуха</a></li>
                             <li class="submenu">
                                 <a>Страницы</a>
