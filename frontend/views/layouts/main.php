@@ -53,7 +53,7 @@ AppAsset::register($this);
                                     <li><a href=<?= Yii::$app->urlManager->createUrl(["equipment/contact"]) ?>>Связь с нами</a></li>
                                 </ul>
                             </li>                            
-                            <li class="scroll-to-section"><a href="/site/login">Вход</a></li>
+                            <li class="scroll-to-section"><a href=<?= Yii::$app->urlManager->createUrl(["/site/login"]) ?>>Вход</a></li>
                         </ul>                       
                         <!-- ***** Menu End ***** -->
                     </nav>
