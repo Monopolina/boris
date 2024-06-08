@@ -16,7 +16,7 @@ $this->title = Yii::$app->name;
                             <h4>Увлажнители</h4>
                             <span>Свежесть. Свобода. Стиль</span>
                             <div class="main-border-button">
-                                <a href="#">Purchase Now!</a>
+                                <a href=<?= Yii::$app->urlManager->createUrl(["equipment/magazin"]) ?>>Купить</a>
                             </div>
                         </div>
                         <img src="assets/images/left-banner-image.jpg" alt="">
@@ -39,7 +39,7 @@ $this->title = Yii::$app->name;
                                             <h4>Кондиционеры</h4>
                                             <p>Комфорт в любых условиях</p>
                                             <div class="main-border-button">
-                                                <a href="#">Discover More</a>
+                                                <a href=<?= Yii::$app->urlManager->createUrl(["equipment/magazin"]) ?>>В магазин</a>
                                             </div>
                                         </div>
                                     </div>
@@ -59,7 +59,7 @@ $this->title = Yii::$app->name;
                                             <h4>Вентиляторы</h4>
                                             <p>Создай свой климат</p>
                                             <div class="main-border-button">
-                                                <a href="#">Discover More</a>
+                                                <a href=<?= Yii::$app->urlManager->createUrl(["equipment/magazin"]) ?>>В магазин</a>
                                             </div>
                                         </div>
                                     </div>
@@ -79,7 +79,7 @@ $this->title = Yii::$app->name;
                                             <h4>Осушители</h4>
                                             <p>Мы создаем погоду в доме</p>
                                             <div class="main-border-button">
-                                                <a href="#">Discover More</a>
+                                                <a href=<?= Yii::$app->urlManager->createUrl(["equipment/magazin"]) ?>>В магазин</a>
                                             </div>
                                         </div>
                                     </div>
@@ -99,7 +99,7 @@ $this->title = Yii::$app->name;
                                             <h4>Очистители воздуха</h4>
                                             <p>Комфорт Стиль. Мы работаем для вас</p>
                                             <div class="main-border-button">
-                                                <a href="#">Discover More</a>
+                                                <a href=<?= Yii::$app->urlManager->createUrl(["equipment/magazin"]) ?>>В магазин</a>
                                             </div>
                                         </div>
                                     </div>
